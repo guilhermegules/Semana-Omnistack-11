@@ -1,7 +1,7 @@
 # Semana-Omnistack-11
  developed during the omnistack week 11 
 
-Tasks:
+Tasks server:
 
 - [x] Node.js & Express;
 - [x] Rotas e Recursos;
@@ -10,4 +10,13 @@ Tasks:
 - [x] Config Nodemon;
 - [x] Using Insomnia;
 - [x] Config DB;
-- [x] Adding CORS;
+- [x] Adding CORS.
+
+- Tasks Web:
+
+- [] Login page;
+- [] Routes Config;
+- [] Register NGO's;
+- [] List cases;
+- [] Register new cases;
+- [] Connect app with API.
