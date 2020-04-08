@@ -14,7 +14,7 @@ Tasks server:
 
 - Tasks Web:
 
-- [] Login page;
+- [x] Login page;
 - [] Routes Config;
 - [] Register NGO's;
 - [] List cases;
