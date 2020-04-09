@@ -1,7 +1,7 @@
 # Semana-Omnistack-11
  developed during the omnistack week 11 
 
-Tasks server:
+### Tasks server:
 
 - [x] Node.js & Express;
 - [x] Rotas e Recursos;
@@ -12,7 +12,7 @@ Tasks server:
 - [x] Config DB;
 - [x] Adding CORS.
 
-- Tasks Web:
+### Tasks Web:
 
 - [x] Login page;
 - [] Routes Config;
