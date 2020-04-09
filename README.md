@@ -15,8 +15,8 @@
 ### Tasks Web:
 
 - [x] Login page;
-- [] Routes Config;
-- [] Register NGO's;
-- [] List cases;
-- [] Register new cases;
+- [x] Routes Config;
+- [x] Register NGO's;
+- [x] List cases;
+- [x] Register new cases;
 - [] Connect app with API.
