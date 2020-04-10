@@ -19,4 +19,4 @@
 - [x] Register NGO's;
 - [x] List cases;
 - [x] Register new cases;
-- [] Connect app with API.
+- [x] Connect app with API.
