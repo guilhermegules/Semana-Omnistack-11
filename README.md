@@ -1,22 +1,6 @@
-# Semana-Omnistack-11
- developed during the omnistack week 11 
+> developed during the omnistack week 11 
 
-### Tasks server:
-
-- [x] Node.js & Express;
-- [x] Rotas e Recursos;
-- [x] Methods HTTP;
-- [x] Params types;
-- [x] Config Nodemon;
-- [x] Using Insomnia;
-- [x] Config DB;
-- [x] Adding CORS.
-
-### Tasks Web:
-
-- [x] Login page;
-- [x] Routes Config;
-- [x] Register NGO's;
-- [x] List cases;
-- [x] Register new cases;
-- [x] Connect app with API.
+- Back end with [Node.Js](https://nodejs.org/en/);
+- Web with [React](https://pt-br.reactjs.org/);
+- Mobile with [React Native](https://reactnative.dev/);
+- Automatic build and run __In Progress__
