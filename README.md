@@ -5,12 +5,12 @@
 - Mobile with [React Native](https://reactnative.dev/);
 - Automatic build and run __In Progress__
 
-## Interface Mobile
+## Mobile Interface
 <p align="center">
     <img src="./images/be-the-hero-mobile.gif">
 </p>
 
-## Interface Web
+## Web Interface
 <p align="center">
     <img src="./images/be-the-hero-web.gif">
 </p>
